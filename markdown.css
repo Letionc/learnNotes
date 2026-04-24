@@ -1,0 +1,16 @@
+.preview-theme--custom *{
+	font-size: 20px;
+}
+.preview-theme--custom h1{
+	color: blue;
+	text-align: center;
+}
+.preview-theme--custom h2, h3{
+	color: blue;
+}
+.preview-theme--custom h2::after, h3::after{
+    display: none;
+}
+.preview-theme--custom h2::before{
+    content: " |  ";
+}
