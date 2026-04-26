@@ -1,7 +1,5 @@
-.preview-theme--custom{
+*.preview-theme--custom{
 	font-size: 20px;
-}
-p.preview-theme--custom{
 	color: #ddd;
 }
 h1.preview-theme--custom{
