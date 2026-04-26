@@ -1,19 +1,19 @@
 .preview-theme--custom{
 	font-size: 20px;
 }
-.preview-theme--custom p{
+p.preview-theme--custom{
 	color: #ddd;
 }
-.preview-theme--custom h1{
+h1.preview-theme--custom{
 	color: #00f;
 	text-align: center;
 }
-.preview-theme--custom h2{
+h2.preview-theme--custom{
 	color: #00f;
 }
-.preview-theme--custom h2::after{
+h2::after.preview-theme--custom{
     display: none;
 }
-.preview-theme--custom h2::before{
+h2::before.preview-theme--custom{
     content: " |  ";
 }
