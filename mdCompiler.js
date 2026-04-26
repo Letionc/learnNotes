@@ -1,4 +1,4 @@
-function compile(markdown) {
+function compileMdToHtml(markdown) {
     // Split markdown into lines
     let lines = markdown.split('\n');
     let html = '';
