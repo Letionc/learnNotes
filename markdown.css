@@ -1,14 +1,17 @@
-.preview-theme--custom *{
+.preview-theme--custom{
 	font-size: 20px;
 }
+.preview-theme--custom p{
+	color: #ddd;
+}
 .preview-theme--custom h1{
-	color: blue;
+	color: #00f;
 	text-align: center;
 }
-.preview-theme--custom h2, h3{
-	color: blue;
+.preview-theme--custom h2{
+	color: #00f;
 }
-.preview-theme--custom h2::after, h3::after{
+.preview-theme--custom h2::after{
     display: none;
 }
 .preview-theme--custom h2::before{

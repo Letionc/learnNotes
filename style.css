@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', 'Microsoft YaHei UI', monospace;
 }
 
 body{
@@ -14,7 +14,7 @@ body{
 
 #search-box{
     width: 100%;
-    height: 20%;
+    height: 10%;
     border-bottom: 1px solid #fff;
     display: flex;
     align-items: center;
@@ -37,17 +37,34 @@ body{
 }
 .bottom-wrap-box{
     position: absolute;
-    top: 20%;
+    top: 10%;
     width: 100%;
-    height: 80%;
+    height: 90%;
 }
 #search-list-box{
     width: 37%;
     height: 100%;
     border-right: 1px solid #fff;
+    display: block;
 }
 .search-list-item{
-    width: 90%;
+    position: absolute;
+    top: 0;
+    width: 96%;
     font-size: 20px;
-    margin-inline: 5%;
+    margin-inline: 2%;
+    margin-block: 5px;
+    display: block;
+    color: #ddd;
+    text-decoration: none;
 }
+#look-box{
+    position: absolute;
+    top: 2%;
+    left: 38%;
+    width: 60%;
+    height: 96%;
+    display: block;
+    overflow: auto;
+}
+
