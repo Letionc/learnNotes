@@ -4,6 +4,7 @@
 	margin-block: 5px;
 }
 h1.preview-theme--custom{
+	margin-block-start: 30px;
 	color: #48c;
 	text-align: center;
 }
@@ -29,4 +30,7 @@ h2::after.preview-theme--custom, h3::after.preview-theme--custom{
 }
 h2::before.preview-theme--custom, h3::after.preview-theme--custom{
     display: none;
+}
+li::marker.preview-theme--custom{
+	display: none;
 }
