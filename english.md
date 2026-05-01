@@ -1,5 +1,5 @@
-# Passages
-## My Unhappy Experience
+# Passages 文章
+## My Unhappy Experience 不快的经历
 
 &emsp;&emsp; Last week, I **failed** my English exam, and my parents **didn't** think that I worked hard **enough**. I felt very **sad** and **disappointed**.
 
@@ -7,7 +7,7 @@
 
 &emsp;&emsp; In my **opinion**, it's **important** to look on the **bright side** of life and stay **positive**. Besides, we can take part in some **volunteer activities** and always be **thankful** for what we **have**.
 
-## Importance of sports
+## Sports Matters  运动很重要
 
 &emsp;&emsp; As we all know, doing sports is **important** for us. Doing sports not only keeps us **healthy**, but also makes us **happy**. As for me, my favourite sport is **running**.
 
@@ -15,7 +15,7 @@
 
 &emsp;&emsp; In a word, sports play an **important** role in our life. From now on, let's **do more exercises** together.
 
-## Food matters
+## Food Matters 食品也重要
 
 &emsp;&emsp; Good morning, everyone. It is **important** to eat **healthily** in our daily life. Let me tell you my **eating habits** and some **advice**.
 
@@ -24,3 +24,11 @@
 &emsp;&emsp; To be healthy, here is some **advice** for you. **First** of all, it's **important** to have a **balanced** diet. **Second**, drinking more **water** is better than **soft** drinks. **Last** but **not least**, you need to have **three** meals a **day** and **eats** on time.
 
 &emsp;&emsp; In a word, a **healthy** diet leads to a **healthy** life. Let's keep a **healthy** diet!
+
+## Balanced Fun Matters 均衡的快乐
+
+&emsp;&emsp; Having fun is **important** in our daily life. For me, I enjoy reading **novels** for fun. Because it can **do away** with my **bad feelings** and make me **happy**.
+
+&emsp;&emsp; One day, I began to read a **novel** after dinner. Soon I **got lost** in the book without **noticing** the time. I **didn't** go to bed until **midnight**. As a **result**, I **couldn't** get up on **time** the next morning. And I was also **very sleepy** when I was having **lessons**. What a **bad** and **terrible** day!
+
+&emsp;&emsp; It's **natural** for us to have **fun**. But having **too much fun** also makes Jack a **dull** boy. So we **need** to have fun in a **balanced** way and **always** remember to be the **master** of our **time**.
