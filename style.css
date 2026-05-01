@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', 'Microsoft YaHei UI', monospace;
+    font-family: "Source Han Sans CN", "PingFang SC", "STHeiti", "Microsoft JhengHei UI", 'Microsoft YaHei UI', Arial, SimHei;
 }
 
 body{
