@@ -1,4 +1,5 @@
 const CONFIG_LIST = Object.entries({
     "./chinese.md": "语文",
-    "./russian.md": "俄语(非正版)",
+    "./english.md": "英语",
+    "./russian.md": "俄语(不完整)",
 });
