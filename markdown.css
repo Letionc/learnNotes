@@ -7,7 +7,7 @@ strong.preview-theme--custom{
 	font-weight: bolder;
 }
 h1.preview-theme--custom{
-	margin-block-start: 30px;
+	margin-block: 30px;
 	color: #48c;
 	text-align: center;
 }
@@ -24,9 +24,11 @@ h1::after.preview-theme--custom{
 }
 h2.preview-theme--custom{
 	color: #48c;
+	margin-block: 20px;
 }
 h3.preview-theme--custom{
 	color: #c44;
+	margin-block: 10px;
 }
 h2::after.preview-theme--custom, h3::after.preview-theme--custom{
     display: none;
