@@ -3,6 +3,9 @@
 	color: #ddd;
 	margin-block: 5px;
 }
+strong.preview-theme--custom{
+	font-weight: bolder;
+}
 h1.preview-theme--custom{
 	margin-block-start: 30px;
 	color: #48c;
