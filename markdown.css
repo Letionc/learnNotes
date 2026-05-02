@@ -6,6 +6,9 @@
 strong.preview-theme--custom{
 	font-weight: bolder;
 }
+code.preview-theme--custom{
+	font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;
+}
 h1.preview-theme--custom{
 	margin-block: 30px;
 	color: #48c;
