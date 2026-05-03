@@ -1,0 +1,30 @@
+<svg width="600" height="800" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<path d="M150 40L150 140" stroke="black" />
+	<text x="150" y="30" fill="red" stroke="transparent" font-size="30" text-anchor="end" font-family="Source Han Sans CN, PingFang SC, STHeiti, Microsoft JhengHei UI, Microsoft YaHei UI, Arial, SimHei">
+		competit
+	</text>
+	<text x="150" y="30" fill="blue" stroke="transparent" font-size="30" text-anchor="start" font-family="Source Han Sans CN, PingFang SC, STHeiti, Microsoft JhengHei UI, Microsoft YaHei UI, Arial, SimHei">
+		ion n.比赛
+	</text>
+	<text x="150" y="170" fill="red" stroke="transparent" font-size="30" text-anchor="end" font-family="Source Han Sans CN, PingFang SC, STHeiti, Microsoft JhengHei UI, Microsoft YaHei UI, Arial, SimHei">
+		competit
+	</text>
+	<text x="150" y="170" fill="blue" stroke="transparent" font-size="30" text-anchor="start" font-family="Source Han Sans CN, PingFang SC, STHeiti, Microsoft JhengHei UI, Microsoft YaHei UI, Arial, SimHei">
+		or n.比赛者
+	</text>
+
+	<path d="M400 40L400 140" stroke="black" />
+	<text x="390" y="30" fill="red" stroke="transparent" font-size="30" text-anchor="end" font-family="Source Han Sans CN, PingFang SC, STHeiti, Microsoft JhengHei UI, Microsoft YaHei UI, Arial, SimHei">
+		sign
+	</text>
+	<text x="400" y="30" fill="blue" stroke="transparent" font-size="30" text-anchor="start" font-family="Source Han Sans CN, PingFang SC, STHeiti, Microsoft JhengHei UI, Microsoft YaHei UI, Arial, SimHei">
+		up 注册账号
+	</text>
+	<text x="390" y="170" fill="red" stroke="transparent" font-size="30" text-anchor="end" font-family="Source Han Sans CN, PingFang SC, STHeiti, Microsoft JhengHei UI, Microsoft YaHei UI, Arial, SimHei">
+		sign
+	</text>
+	<text x="400" y="170" fill="blue" stroke="transparent" font-size="30" text-anchor="start" font-family="Source Han Sans CN, PingFang SC, STHeiti, Microsoft JhengHei UI, Microsoft YaHei UI, Arial, SimHei">
+		in 登录帐号
+	</text>
+</svg>
+

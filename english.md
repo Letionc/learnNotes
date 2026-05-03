@@ -32,3 +32,6 @@
 &emsp;&emsp; One day, I began to read a **novel** after dinner. Soon I **got lost** in the book without **noticing** the time. I **didn't** go to bed until **midnight**. As a **result**, I **couldn't** get up on **time** the next morning. And I was also **very sleepy** when I was having **lessons**. What a **bad** and **terrible** day!
 
 &emsp;&emsp; It's **natural** for us to have **fun**. But having **too much fun** also makes Jack a **dull** boy. So we **need** to have fun in a **balanced** way and **always** remember to be the **master** of our **time**.
+
+# Image Memories 图片记忆
+![competition-competitor | sign in-sign-up](./english_1.svg)
