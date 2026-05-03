@@ -91,6 +91,7 @@ function compileMdToHtml(markdown) {
     html = html.replace(/\*\*(.*?)\*\*/g, '<strong class="preview-theme--custom">$1</strong>');
     html = html.replace(/\*(.*?)\*/g, '<em class="preview-theme--custom">$1</em>');
     html = html.replace(/`(.*?)`/g, '<code class="preview-theme--custom">$1</code>');
+    html = html.replace(/!\[([^\]]+)\]\(([^)]+)\)/g, '<img alt="$1" src="$2" class="preview-theme--custom">$1</a>');
     html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="preview-theme--custom">$1</a>');
 
     return html;
