@@ -1,10 +1,17 @@
+#look-box:not(.unlighted){
+	--color: #ddd;
+}
+#look-box.unlighted{
+	--color: #000;
+}
 *.preview-theme--custom{
 	font-size: 20px;
-	color: #ddd;
+	color: var(--color);
 	margin-block: 5px;
 }
 strong.preview-theme--custom{
 	font-weight: bolder;
+	color: #ddd; /* Be sure it is still visible while unlighed */
 }
 code.preview-theme--custom{
 	font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;
