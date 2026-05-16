@@ -1,7 +1,7 @@
 # Passages 文章
 ## My Unhappy Experience 不快的经历
 
-&emsp;&emsp; Last week, I **failed** my English exam, and my parents **didn't** think that I worked hard **enough**. I felt very **sad** and **disappointed**.
+&emsp;&emsp; **Last week**, I **failed** my **English** exam, and my **parents didn't think** that I worked **hard enough**. I **felt** very **sad** and **disappointed**.
 
 &emsp;&emsp; During that time, I **tried** to think about the **problem** in a **positive** way and then **solved** it. I asked my **teachers** and **friends** for help and did more **exercises**. With their **help**, I felt much **better** and became **more** confident in learning English. **Finally**, I made **great** progress.
 
@@ -33,5 +33,24 @@
 
 &emsp;&emsp; It's **natural** for us to have **fun**. But having **too much fun** also makes Jack a **dull** boy. So we **need** to have fun in a **balanced** way and **always** remember to be the **master** of our **time**.
 
-# Image Memories 图片记忆
-![competition-competitor | sign in-sign-up](./english_1.svg)
+## Environment Protection 保护这环境
+&emsp;&emsp; The **Amazon** Rainforest is **one** of the **biggest** forests in the world. It is **home** to many **animals** and **plants**. People call it the "**lungs** of the **Earth**".
+
+&emsp;&emsp; However, the **Amazon** faces big **problems**. Due to **climate change**, it is getting **smaller year** by year. People are **cutting down trees** for **wood** and to make **space** for **farming**. **Pollution** from factories is **harmful** to the **water**.
+
+&emsp;&emsp; To **protect Amazon** Rainforest, we must stop **cutting** down **trees** in it. What's more. it's **nessesary** to **plant** more **trees**. Last but not least, we can make **laws** to **protect** it.
+
+&emsp;&emsp; Let's work **together** to **protect** it. By joint **efforts**, we can **protect** it and keep it **safe** for the **future**.
+
+# Words 单词簿
+## General 通用
+- **degree  :  n.** 学位；学位课程
+- **quality  :  n.** 品质
+- **argue  :  v.** 争论；争吵；争辩
+- **partly  :  adv.** 一定程度上；部分地
+
+## Imagination 想象
+- **planet  :  n.** 行星
+
+<!-- # Image Memories 图片记忆
+![competition-competitor | sign in-sign-up](./english_1.svg) -->
