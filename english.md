@@ -26,15 +26,75 @@
 - &emsp;&emsp; To **protect Amazon** Rainforest, we must stop **cutting** down **trees** in it. What's more. it's **nessesary** to **plant** more **trees**. Last but not least, we can make **laws** to **protect** it.
 - &emsp;&emsp; Let's work **together** to **protect** it. By joint **efforts**, we can **protect** it and keep it **safe** for the **future**.
 
-# Words 单词簿
+# Words 词汇簿
 ## General 通用
-- &emsp;&emsp; **degree  :  n.** 学位；学位课程
-- &emsp;&emsp; **quality  :  n.** 品质
-- &emsp;&emsp; **argue  :  v.** 争论；争吵；争辩
-- &emsp;&emsp; **partly  :  adv.** 一定程度上；部分地
+- **degree  :  n.** 学位；学位课程
+- **quality  :  n.** 品质
+- **argue  :  v.** 争论；争吵；争辩
+- **partly  :  adv.** 一定程度上；部分地
+- **research  :  v.** 研究
+- **create  :  v.** 创造
+- **creative  :  adn.** 有创造力的
 
 ## Imagination 想象
-- &emsp;&emsp; **planet  :  n.** 行星
+- **planet  :  n.** 行星
+
+## Unsorted 未排序的
+- **researcher  :  n.** 研究者
+- **quality  :  n.** 品质
+- **creative  :  adn.** 有创造力的
+- **prove  :  v.** 证明
+- **disappointment  :  n.** 失望
+- **mistake  :  n.** 错误
+- **come along with  :  v.** 伴随……而来
+- **have a natural gift for  :  v.** 有……天赋
+- **make it  :  v.** 成功
+- **be curious about  :  v.** 对……好奇
+- **play the biggest role  :  v.** 起最大作用
+- **lead to  :  v.** 导致
+- **season  :  n.** 季节
+- **neighbor  :  n.** 邻居
+- **community  :  n.** 社区
+- **pandemic  :  n.** 疫情
+- **spread  :  v.** 传播
+- **habit  :  n.** 习惯
+- **lay out  :  v.** 摆放，布置
+- **take away  :  v.** 带走
+- **break out  :  v.** （火灾/战争）爆发
+- **have a hard time  :  v.** 度过艰难时期
+- **make sure  :  v.** 确保
+- **stop by  :  v.** 顺便拜访
+- **work together  :  v.** 齐心协力
+- **agency  :  n.** 机构
+- **director  :  n.** 主任，导演
+- **protect  :  v.** 保护
+- **germ  :  n.** 细菌
+- **alien  :  n.** 外星人
+- **chance  :  n.** 机会
+- **look for  :  v.** 寻找
+- **laugh at  :  v.** 嘲笑
+- **take...seriously  :  v.** 认真对待
+- **be interested in  :  v.** 对……感兴趣
+- **do well in  :  v.** 在……表现好
+- **study hard  :  v.** 努力学习
+- **hope to do  :  v.** 希望做某事
+- **cheerful  :  adn.** 高兴的
+- **promise  :  v./n.** 承诺
+- **appear  :  v.** 出现
+- **return  :  v.** 返回
+- **hold  :  v.** 抱着，握着
+- **cute  :  adj.** 可爱的
+- **can't wait to  :  v.** 迫不及待
+- **say to oneself  :  v.** 自言自语
+- **day by day  :  adv.** 一天天
+- **by the time  :  adv.** 到……时候
+- **return home  :  v.** 回家
+- **wait for  :  v.** 等待
+- **in one's arms  :  adv.** 在某人怀里
+- **as...as...  :  adv.** 和……一样
+- **Earlier that year...  :  adv.** (倒叙引入故事背景)
+- **Then ... came  :  v.** (推进时间线，引出新变故)
+- **But ...  :  adv.** (触发情感、情节核心转折)
 
 <!-- # Image Memories 图片记忆
 ![competition-competitor | sign in-sign-up](./english_1.svg) -->
