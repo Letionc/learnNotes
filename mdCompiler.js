@@ -2,11 +2,15 @@ function compileMdToHtml(markdown) {
     // Split markdown into lines
     let lines = markdown.split('\n');
     let html = '';
-    let inList = false;
+    let inList = 0;
     let paragraph = '';
 
     for (let i = 0; i < lines.length; i++) {
-        let line = lines[i].trim();
+        /**@type {string}*/
+        let line_withspace = lines[i];
+        let line = line_withspace.trim();
+        let line_onlyspace = line_withspace.match(/^\t+/);
+        let line_tabcnt = line_onlyspace? (line_onlyspace[0].length + 1): 1;
 
         if (line === '') {
             // End paragraph or list
@@ -14,9 +18,9 @@ function compileMdToHtml(markdown) {
                 html += '<p class="preview-theme--custom">' + paragraph.trim() + '</p>\n';
                 paragraph = '';
             }
-            if (inList) {
+            while (inList) {
                 html += '</ul>\n';
-                inList = false;
+                --inList;
             }
             continue;
         }
@@ -27,9 +31,9 @@ function compileMdToHtml(markdown) {
                 html += '<p class="preview-theme--custom">' + paragraph.trim() + '</p>\n';
                 paragraph = '';
             }
-            if (inList) {
+            while (inList) {
                 html += '</ul>\n';
-                inList = false;
+                --inList;
             }
             html += '<h1 class="preview-theme--custom">' + line.substring(2) + '</h1>\n';
         } else if (line.startsWith('## ')) {
@@ -37,9 +41,9 @@ function compileMdToHtml(markdown) {
                 html += '<p class="preview-theme--custom">' + paragraph.trim() + '</p>\n';
                 paragraph = '';
             }
-            if (inList) {
+            while (inList) {
                 html += '</ul>\n';
-                inList = false;
+                --inList;
             }
             html += '<h2 class="preview-theme--custom">' + line.substring(3) + '</h2>\n';
         } else if (line.startsWith('### ')) {
@@ -47,9 +51,9 @@ function compileMdToHtml(markdown) {
                 html += '<p class="preview-theme--custom">' + paragraph.trim() + '</p>\n';
                 paragraph = '';
             }
-            if (inList) {
+            while (inList) {
                 html += '</ul>\n';
-                inList = false;
+                --inList;
             }
             html += '<h3 class="preview-theme--custom">' + line.substring(4) + '</h3>\n';
         }
@@ -59,17 +63,22 @@ function compileMdToHtml(markdown) {
                 html += '<p class="preview-theme--custom">' + paragraph.trim() + '</p>\n';
                 paragraph = '';
             }
-            if (!inList) {
-                html += '<ul class="preview-theme--custom">\n';
-                inList = true;
+            while (inList < line_tabcnt) {
+                // debugger;
+                html += `<ul class="preview-theme--custom">\n`;
+                ++inList;
+            }
+            while (inList > line_tabcnt) {
+                html += `</ul>\n`;
+                --inList;
             }
             html += '<li class="preview-theme--custom">' + line.substring(2) + '</li>\n';
         }
         // Paragraph
         else {
-            if (inList) {
+            while (inList) {
                 html += '</ul>\n';
-                inList = false;
+                -- inList;
             }
             if (paragraph) {
                 paragraph += ' ' + line;
@@ -83,7 +92,7 @@ function compileMdToHtml(markdown) {
     if (paragraph) {
         html += '<p class="preview-theme--custom">' + paragraph.trim() + '</p>\n';
     }
-    if (inList) {
+    while (inList) {
         html += '</ul>\n';
     }
 

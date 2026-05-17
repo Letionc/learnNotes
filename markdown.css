@@ -46,6 +46,17 @@ h2::after.preview-theme--custom, h3::after.preview-theme--custom{
 h2::before.preview-theme--custom, h3::after.preview-theme--custom{
     display: none;
 }
-li::marker.preview-theme--custom{
+ul.preview-theme--custom{
+	padding-inline-start: 19px;
+	list-style-type: none;
+}
+li.preview-theme--custom::marker{
 	display: none;
+}
+ul.preview-theme--custom{
+	content: '';
+	border-left: 1px solid #666;
+}
+li.preview-theme--custom{
+	margin-block: 5px;
 }
