@@ -10,27 +10,27 @@
 - &emsp;&emsp; In a word, sports **play an important role** in our life. From now on, let's **do more exercises** together.
 
 ## Food Matters 食品也重要
-- &emsp;&emsp; Good morning, everyone. It is important to eat healthily in our daily life. Let me tell you my eating habits and some advice.
-- &emsp;&emsp; My favorite food is beef and it tastes delicious in different ways. For my eating habits, I have eggs and milk for breakfast. I usually have beef, fish and vegetables for lunch and dinner.
-- &emsp;&emsp; To be healthy, here is some advice for you. First of all, it's important to have a balanced diet. Second, drinking more water is better than soft drinks. Last but not least, you need to have three meals a day and eats on time.
-- &emsp;&emsp; In a word, a healthy diet leads to a healthy life. Let's keep a healthy diet!
+- &emsp;&emsp; Good morning, everyone. It is **important** to **eat healthily** in our daily life. Let me tell you **my eating habits** and **some advice**.
+- &emsp;&emsp; My **favorite** food is **beef** and it tastes **delicious** in **different ways**. For my eating habits, I have **eggs and milk** for **breakfast**. I usually have **beef, fish and vegetables** for **lunch and dinner**.
+- &emsp;&emsp; To be healthy, here is **some advice** for you. First of all, it's important to **have a balanced diet**. Second, **drinking more water** is better than soft drinks. Last but not least, you need to **have three meals a day** and **eats on time**.
+- &emsp;&emsp; In a word, **a healthy diet** leads to **a healthy life**. **Let's** keep a healthy diet!
 
 ## Balanced Fun Matters 均衡的快乐
-- &emsp;&emsp; Having fun is important in our daily life. For me, I enjoy reading novels for fun. Because it can do away with my bad feelings and make me happy.
-- &emsp;&emsp; One day, I began to read a novel after dinner. Soon I got lost in the book without noticing the time. I didn't go to bed until midnight. As a result, I couldn't get up on time the next morning. And I was also very sleepy when I was having lessons. What a bad and terrible day!
-- &emsp;&emsp; It's natural for us to have fun. But having too much fun also makes Jack a dull boy. So we need to have fun in a balanced way and always remember to be the master of our time.
+- &emsp;&emsp; **Having fun is important** in our daily life. For me, I enjoy **reading novels** for fun. Because it can **do away with my bad feelings** and **make me happy**.
+- &emsp;&emsp; One day, I began to **read a novel** after dinner. Soon I **got lost** in the book **without noticing** the time. I **didn't go to bed** until midnight. As a result, I **couldn't get up on time** the next morning. And I was also **very sleepy** when I was **having lessons**. What a **bad** and **terrible** day!
+- &emsp;&emsp; It's **natural** for us to **have fun**. But having **too much fun** also makes Jack a **dull** boy. So we need to **have fun in a balanced way** and always remember to **be the master of our time**.
 
 ## Environment Protection 保护这环境
-- &emsp;&emsp; The Amazon Rainforest is one of the biggest forests in the world. It is home to many animals and plants. People call it the "lungs of the Earth".
-- &emsp;&emsp; However, the Amazon faces big problems. Due to climate change, it is getting smaller year by year. People are cutting down trees for wood and to make space for farming. Pollution from factories is harmful to the water.
-- &emsp;&emsp; To protect Amazon Rainforest, we must stop cutting down trees in it. What's more. it's nessesary to plant more trees. Last but not least, we can make laws to protect it.
-- &emsp;&emsp; Let's work together to protect it. By joint efforts, we can protect it and keep it safe for the future.
+- &emsp;&emsp; The **Amazon Rainforest** is one of the **biggest** forests in the **world**. It is **home** to many **animals** and **plants**. People call it the **"lungs of the Earth"**.
+- &emsp;&emsp; However, the Amazon faces **big problems**. Due to **climate change**, it is getting **smaller** year by year. People are **cutting** down trees for **wood** and to make space for **farming**. **Pollution** from factories is **harmful** to the **water**.
+- &emsp;&emsp; To **protect** Amazon Rainforest, we must **stop cutting down trees** in it. What's more. it's nessesary to **plant more trees**. Last but not least, we can **make laws** to protect it.
+- &emsp;&emsp; Let's **work together** to protect it. By joint efforts, we can **protect it** and **keep it safe** for the future.
 
 ## Foshan's Places of Interest 佛山的胜地
-- &emsp;&emsp; I am so excited to hear that you will come to China next month. I would like to invite you to my hometown - Foshan. It is in the south of China and next to Guangzhou, the capital of Guangdong. Foshan is famous for its traditional culture, such as lion dance and kung fu.
-- &emsp;&emsp; In Foshan, there are many places of interest, such as Qiandeng Lake and Xiqiao Mountain. Xiqiao Mountain is full of all kinds of flowers and plants. Foshan is also a good place to enjoy the Cantonese culture. When you want to try traditional Cantonese food, you can go to Shunde to taste delicious Cantonese food.
+- &emsp;&emsp; I am so **excited** to hear that **you** will **come to China** next month. I would like to **invite** you to my **hometown** - **Foshan**. It is in the **south** of **China** and **next** to **Guangzhou**, the **capital** of **Guangdong**. Foshan is **famous** for its **traditional** **culture**, such as **lion dance** and **kung fu**.
+- &emsp;&emsp; In Foshan, there are many **places of interest**, such as **Qiandeng Lake** and **Xiqiao Mountain**. Xiqiao Mountain is **full** of all kinds of **flowers** and **plants**. Foshan is also a **good place** to enjoy the **Cantonese culture**. **When** you want to **try** **traditional Cantonese food**, you can go to **Shunde** to taste **delicious** Cantonese food.
 
-- &emsp;&emsp; I am sure that you will have a good understanding of Cantonese culture after your visit. I hope you will have a good time in China. I can't wait to see you.
+- &emsp;&emsp; I am **sure** that you will have a **good understanding** of **Cantonese culture** after **your visit**. I hope you will **have a good time** in China. I **can't wait** to meet you.
 
 # Words 词汇簿
 ## General 通用
