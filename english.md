@@ -26,6 +26,12 @@
 - &emsp;&emsp; To **protect Amazon** Rainforest, we must stop **cutting** down **trees** in it. What's more. it's **nessesary** to **plant** more **trees**. Last but not least, we can make **laws** to **protect** it.
 - &emsp;&emsp; Let's work **together** to **protect** it. By joint **efforts**, we can **protect** it and keep it **safe** for the **future**.
 
+## Foshan's Places of Interest 佛山的胜地
+- &emsp;&emsp; I am so excited to hear that you will come to China next month. I would like to invite you to my hometown - Foshan. It is in the south of China and next to Guangzhou, the capital of Guangdong. Foshan is famous for its traditional culture, such as lion dance and kung fu.
+- &emsp;&emsp; In Foshan, there are many places of interest, such as Qiandeng Lake and Xiqiao Mountain. Xiqiao Mountain is full of all kinds of flowers and plants. Foshan is also a good place to enjoy the Cantonese culture. When you want to try traditional Cantonese food, you can go to Shunde to taste delicious Cantonese food.
+
+- &emsp;&emsp; I am sure that you will have a good understanding of Cantonese culture after your visit. I hope you will have a good time in China. I can't wait to see you.
+
 # Words 词汇簿
 ## General 通用
 - **degree  :  n.** 学位；学位课程
