@@ -43,19 +43,35 @@
 - **[Hope]** I am **sure** that you will have a **good understanding** of **Cantonese culture** after **your visit**. I hope you will **have a good time** in China. I **can't wait** to meet you.
 
 # Words 词汇簿
-## General 通用
-- **degree  :  n.** 学位；学位课程
-- **quality  :  n.** 品质
-- **argue  :  v.** 争论；争吵；争辩
-- **partly  :  adv.** 一定程度上；部分地
-- **research  :  v.** 研究
-- **create  :  v.** 创造
-- **creative  :  adn.** 有创造力的
+## Daily 日常
+- **quality  :  n.** 品质 - a good quality
+- **argue  :  v.** 争吵，争辩 - We argued about this
+- **partly  :  adv.** 一定程度上，部分地 - partly change your face
+- **pretend  :  vi.** 假装 - pretent to be a leaf
+- **condition  :  n.** 状态；条件 - how is your condition
+- **rude  :  adn.** 不礼貌的 - you are so rude!!!
+- **apartment  :  n.** 公寓 - a rich apartment
+
+## Position 位置
+- **agency  :  n.** 机构 - set an agency
+- **neighborhood  :  n.** 地区 - neighbor 和你住在 neighborhood
+- **cave  :  n.** 洞穴 - do not go in the cave
+- **planet  :  n.** 行星 - the Earth is out planet
+- **material  :  n.** 材料；**adj.** 物质的，重要的 - use the material to make this
+
+## Study 学科
+- **degree  :  n.** 学位；学位课程 - has a high degree
+- **gift  :  n.** 天赋 = talent
+- **pandemic  :  n.** 疫情 - the pandemic in 2020 brings diseases
+- **scholar  :  n.** 学者 - American scholar
+- **germ  :  n.**[pl.+s] 细菌 - a scary germ
+- **prehistory  :  n.** 所记载历史之前的 - there is a prehistoric man
+- **raw  :  adn.** 未处理的，真实的 - raw egg
 
 ## Imagination 想象
-- **planet  :  n.** 行星
+- **alien  :  n.** 外星人 - act like an alien
 
-## Unsorted 未排序的
+## Professional 官方给出的
 - **researcher  :  n.** 研究者
 - **quality  :  n.** 品质
 - **creative  :  adn.** 有创造力的
