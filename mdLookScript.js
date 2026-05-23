@@ -4,7 +4,7 @@ const show_history = {};
 var is_light_on = true;
 
 function markdownShow(fn) {
-    const history = show_history;
+    const history = show_history[fn];
     if(history){
         ELEM_LOOK_BOX.innerHTML = history;
     }
