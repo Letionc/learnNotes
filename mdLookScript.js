@@ -1,5 +1,5 @@
 const ELEM_LOOK_BOX = document.getElementById("look-box");
-const ELEM_LIGHT_BTN = document.getElementById("light-btn");
+const ELEM_LIGHT_BTN = document.getElementById("light-btn") || Object.create(null);
 const show_history = {};
 var is_light_on = true;
 

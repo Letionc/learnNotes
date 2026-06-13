@@ -4,26 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Learning notes looker</title>
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style_outdex.css">
     <link rel="stylesheet" href="./markdown.css">
     <!-- i dont wanna support dark mode for HarmonyOS now: i wanna try the real thing -->
 </head>
 <body>
-    <div id="search-box">
-        <input type="text" id="search" placeholder="Search ... (When key up)">
-        <div class="buttons-wrap-box">
-            <button id="light-btn" onclick="turnLight();">Turn Off</button>
-        </div>
-    </div>
-    <div class="bottom-wrap-box">
-        <div id="search-list-box"></div>
-        <div id="look-box"></div>
+    <div id="look-box">
+        <p class="preview-theme--custom"><strong class="preview-theme--custom">你似乎没有长按任何文件</strong>就进来了<strong class="preview-theme--custom">……这不对吧？</strong></p>
     </div>
 
     <script src="./mdCompiler.js"></script>
     <script src="./mdLookScript.js"></script>
     <script src="./configList.js"></script>
-    <script src="./searchList.js"></script>
     <script src="./outdexRuns.js"></script>
 </body>
 </html>

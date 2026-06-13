@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Source Han Sans CN", "PingFang SC", "STHeiti", "Microsoft JhengHei UI", 'Microsoft YaHei UI', Arial, SimHei;
+}
+
+body{
+    background-color: #000;
+    width: 100dvw;
+    height: 100dvh;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: #333;
+    margin-inline: 10px;
+    border: transparent;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+.page-margin{
+    margin-block: 80%; 
+}
