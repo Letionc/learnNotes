@@ -1,11 +1,15 @@
 const ELEM_SEARCH = document.getElementById("search");
 const ELEM_SEARCH_LIST_BOX = document.getElementById("search-list-box");
 
+function rightClickCallback(e){
+    open(`./outdex.html?file=${this.fn}${is_light_on? "": "&unlight"}`, "_blank");
+}
 function addChild(show_name, fn) {
     const ELEM = document.createElement("a");
     ELEM.innerHTML = show_name,
     ELEM.href = `javascript: markdownShow("${fn}") ;`,
     ELEM.classList.add("search-list-item"),
+    ELEM.addEventListener("contextmenu", rightClickCallback.bind({fn: fn}));
     ELEM_SEARCH_LIST_BOX.appendChild(ELEM);
 }
 function updateSearchListBox() {
