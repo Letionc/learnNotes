@@ -14,7 +14,7 @@
 - **[Hello]** How are you? I'm sorry to hear you're feeling anxious about your looks. Let me share my experience of accepting myself with you.
 - **[Hello]** How are you? I've read your travelling experience in China. Let me share my unforgettable trip to Macau, a special administrative region of China. I visited it with my parents during the Labour Day holiday in 2023.
 - **[Me]** Last week, I failed my English exam, and my parents didn't think that I worked hard enough. I felt very sad and disappointed.
-- **[Me]** Hello, everyone. As a junior high student, I think a healthy life is very important. In the past, I had some bad habits. I often ate hamburgers and chips, and I seldom did sports. So I felt tired and weak easily and sometimes got a cold. So I decided to change.
+- **[Me]** Hello, everyone. As a junior high student, I think a healthy life is very important. In the past, I had some bad habits. I often ate hamburgers and chips, and I seldom took exercise. So I felt tired and weak easily and sometimes caught a cold. Therefore, I decided to change.
 - **[Introduction]** Good morning, everyone. It is important to eat healthily in our daily life. Let me tell you my eating habits and some advice.
 - **[Introduction]** Having fun is important in our daily life. For me, I enjoy reading novels for fun. Because it can do away with my bad feelings and make me happy.
 - **[Introduction]** As we all know, doing sports is important for us. Doing sports not only keeps us healthy, but also makes us happy. As for me, my favourite sport is running.
