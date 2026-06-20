@@ -14,11 +14,13 @@
 - **[Hello]** How are you? I'm sorry to hear you're feeling anxious about your looks. Let me share my experience of accepting myself with you.
 - **[Hello]** How are you? I've read your travelling experience in China. Let me share my unforgettable trip to Macau, a special administrative region of China. I visited it with my parents during the Labour Day holiday in 2023.
 - **[Me]** Last week, I failed my English exam, and my parents didn't think that I worked hard enough. I felt very sad and disappointed.
+- **[Me]** Hello, everyone. As a junior high student, I think a healthy life is very important. In the past, I had some bad habits. I often ate hamburgers and chips, and I seldom did sports. So I felt tired and weak easily and sometimes got a cold. So I decided to change.
 - **[Introduction]** Good morning, everyone. It is important to eat healthily in our daily life. Let me tell you my eating habits and some advice.
 - **[Introduction]** Having fun is important in our daily life. For me, I enjoy reading novels for fun. Because it can do away with my bad feelings and make me happy.
 - **[Introduction]** As we all know, doing sports is important for us. Doing sports not only keeps us healthy, but also makes us happy. As for me, my favourite sport is running.
 - **[Introduction]** The Amazon Rainforest is one of the biggest forests in the world. It is home to many animals and plants. People call it the "lungs of the Earth".
 - **[Introduction]** I am so excited to hear that you will come to China next month. I would like to invite you to my hometown - Foshan. It is in the south of China and next to Guangzhou, the capital of Guangdong. Foshan is famous for its traditional culture, such as lion dance and kung fu.
+- **[Introduction]** I'm happy to invite you to the coming school sports meeting. The school sports meeting will begin at 8 AM next Monday. And we will hold it on the playground in our school.
 
 ## End
 - **[Hope]** I am sure that you will have a good understanding of Cantonese culture after your visit. I hope you will have a good time in China. I can't wait to meet you.
@@ -30,11 +32,13 @@
 - **[Calling]** In a word, a healthy diet leads to a healthy life. Let's keep a healthy diet!
 - **[Calling]** In a word, sports play an important role in our life. From now on, let's do more exercises together.
 - **[Calling]** Let's work together to protect it. By joint efforts, we can protect it and keep it safe for the future.
+- **[Calling]** The more exercise we do, the healthier we will be. Let's do more sports and have fun together.
+- **[Summary]** These good habits help me keep healthy.
 
 ## Experience
 - **[Action]** During that time, I tried to think about the problem in a positive way and then solved it. I asked my teachers and friends for help and did more exercises. With their help, I felt much better and became more confident in learning English. Finally, I made great progress.
 - **[Action]** It took us some time to go through the customs to enter Macau. After arriving, we took a taxi to our hotel and had a good rest for the night.
-- **[Scene]** On the second day, we visited a shopping mall famous for its artificial ceiling called "fake sky", also known as "rich people's sky". The fantastic view impressed us so much that we spent quite a long time enjoying it before returning to our hotel.
+- **[View]** On the second day, we visited a shopping mall famous for its artificial ceiling called "fake sky", also known as "rich people's sky". The fantastic view impressed us so much that we spent quite a long time enjoying it before returning to our hotel.
 - **[Me]** I was not satisfied with my big ears. My classmates always looked at me in surprise and laughed at me. I felt ashamed and tried to cover my ears with my hair.
 - **[Me]** One day, I began to read a novel after dinner. Soon I got lost in the book without noticing the time. I didn't go to bed until midnight. As a result, I couldn't get up on time the next morning. And I was also very sleepy when I was having lessons. What a bad and terrible day!
 - **[Me]** I had a special experience of running. Last year, I took part in an important running race. I felt confident before the race. But I fell down and hurt my legs on my way. I paid no attention to the pain and continued to run. With people cheering, I finally crossed the finishing line. I'm proud of myself. If possible, I will keep running in the future.
@@ -43,7 +47,9 @@
 - **[Me]** My favorite food is beef and it tastes delicious in different ways. For my eating habits, I have eggs and milk for breakfast. I usually have beef, fish and vegetables for lunch and dinner.
 - **[Now]** But having a pair of big ears is not always bad. I find that my hearing is very good. I am also good at music. All my classmates praise me for my amazing ability. Now I feel confident and powerful.
 - **[Now]** However, the Amazon faces big problems. Due to climate change, it is getting smaller year by year. People are cutting down trees for wood and to make space for farming. Pollution from factories is harmful to the water.
-- **[Now]** In Foshan, there are many places of interest, such as Qiandeng Lake and Xiqiao Mountain. Xiqiao Mountain is full of all kinds of flowers and plants. Foshan is also a good place to enjoy the Cantonese culture. When you want to try traditional Cantonese food, you can go to Shunde to taste delicious Cantonese food.
+- **[Now]** Now, I try to keep fit every day. First, I do sports for 30 minutes every day, such as running or playing basketball. Second, I eat more vegetables and fruit instead of hamburgers. These good habits bring me many benefits. First, I'm full of energy and study better. Second, I seldom get sick and feel happy.
+- **[Recommanding]** In Foshan, there are many places of interest, such as Qiandeng Lake and Xiqiao Mountain. Xiqiao Mountain is full of all kinds of flowers and plants. Foshan is also a good place to enjoy the Cantonese culture. When you want to try traditional Cantonese food, you can go to Shunde to taste delicious Cantonese food.
+- **[Recommanding]** You can take part in different kinds of sports in the meeting, such as running, swimming and so on. There are many benefits of sports. They are good for both our body and mind. First, sports give us joy. Second, sports make us healthy and fit. What's more, sports help us make more friends.
 
 ## Giving Advice 
 - **[Advice]** To be healthy, here is some advice for you. First of all, it's important to have a balanced diet. Second, drinking more water is better than soft drinks. Last but not least, you need to have three meals a day and eats on time.
