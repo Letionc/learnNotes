@@ -24,7 +24,7 @@
 
 ## End
 - **[Hope]** I am sure that you will have a good understanding of Cantonese culture after your visit. I hope you will have a good time in China. I can't wait to meet you.
-- **[Feeling]** On the last day, we enjoyed a fancy breakfast and headed back to our hometown. Overall, this trip brought me precious memories and valuable life experience.
+- **[Feeling]** Overall, this trip brought me precious memories and valuable life experience.
 - **[Advice]** In my opinion, it's important to look on the bright side of life and stay positive. Besides, we can take part in some volunteer activities and always be thankful for what we have.
 - **[Advice]** It's natural for us to have fun. But having too much fun also makes Jack a dull boy. So we need to have fun in a balanced way and always remember to be the master of our time.
 - **[Advice]** It's important to love and accpet ourselves. True beauty comes from inside. Be kind to yourself, and focus on what make you special. I hope my experience and advice can help you.
@@ -38,6 +38,7 @@
 ## Experience
 - **[Action]** During that time, I tried to think about the problem in a positive way and then solved it. I asked my teachers and friends for help and did more exercises. With their help, I felt much better and became more confident in learning English. Finally, I made great progress.
 - **[Action]** It took us some time to go through the customs to enter Macau. After arriving, we took a taxi to our hotel and had a good rest for the night.
+- **[Action]** On the last day, we enjoyed a fancy breakfast and headed back to our hometown. 
 - **[View]** On the second day, we visited a shopping mall famous for its artificial ceiling called "fake sky", also known as "rich people's sky". The fantastic view impressed us so much that we spent quite a long time enjoying it before returning to our hotel.
 - **[Me]** I was not satisfied with my big ears. My classmates always looked at me in surprise and laughed at me. I felt ashamed and tried to cover my ears with my hair.
 - **[Me]** One day, I began to read a novel after dinner. Soon I got lost in the book without noticing the time. I didn't go to bed until midnight. As a result, I couldn't get up on time the next morning. And I was also very sleepy when I was having lessons. What a bad and terrible day!
@@ -61,7 +62,7 @@
 - **argue  :  v.** 争吵，争辩 - We argued about this
 - **partly  :  adv.** 一定程度上，部分地 - partly change your face
 - **pretend  :  vi.** 假装 - pretent to be a leaf
-- **condition  :  n.** 状态；条件 - how is your condition
+- **condition  :  n.** 状态；条件 - satisfy this condition
 - **rude  :  adn.** 不礼貌的 - you are so rude!!!
 - **apartment  :  n.** 公寓 - a rich apartment
 
