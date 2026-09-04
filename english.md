@@ -11,8 +11,8 @@
 
 # Passages 文章
 ## Begin
-- **[Hello]** How are you? I'm sorry to hear you're feeling anxious about your looks. Let me share my experience of accepting myself with you.
-- **[Hello]** How are you? I've read your travelling experience in China. Let me share my unforgettable trip to Macau, a special administrative region of China. I visited it with my parents during the Labour Day holiday in 2023.
+- **[Letter]** How are you? I'm sorry to hear you're feeling anxious about your looks. Let me share my experience of accepting myself with you.
+- **[Letter]** How are you? I've read your travelling experience in China. Let me share my unforgettable trip to Macau, a special administrative region of China. I visited it with my parents during the Labour Day holiday in 2023.
 - **[Me]** Last week, I failed my English exam, and my parents didn't think that I worked hard enough. I felt very sad and disappointed.
 - **[Me]** Hello, everyone. As a junior high student, I think a healthy life is very important. In the past, I had some bad habits. I often ate hamburgers and chips, and I seldom took exercise. So I felt tired and weak easily and sometimes caught a cold. Therefore, I decided to change.
 - **[Introduction]** Good morning, everyone. It is important to eat healthily in our daily life. Let me tell you my eating habits and some advice.
@@ -27,6 +27,7 @@
 - **[Feeling]** Overall, this trip brought me precious memories and valuable life experience.
 - **[Advice]** In my opinion, it's important to look on the bright side of life and stay positive. Besides, we can take part in some volunteer activities and always be thankful for what we have.
 - **[Advice]** It's natural for us to have fun. But having too much fun also makes Jack a dull boy. So we need to have fun in a balanced way and always remember to be the master of our time.
+- **[Advice]** It's important to accept ourselves and think positively. True beauty comes from inside. Be kind to yourself, and focus on what make you special. I hope my experience and advice can help you.
 - **[Advice]** It's important to love and accpet ourselves. True beauty comes from inside. Be kind to yourself, and focus on what make you special. I hope my experience and advice can help you.
 - **[Calling]** If you are interested, you can plan a trip there yourself!
 - **[Calling]** In a word, a healthy diet leads to a healthy life. Let's keep a healthy diet!
@@ -41,12 +42,14 @@
 - **[Action]** On the last day, we enjoyed a fancy breakfast and headed back to our hometown. 
 - **[View]** On the second day, we visited a shopping mall famous for its artificial ceiling called "fake sky", also known as "rich people's sky". The fantastic view impressed us so much that we spent quite a long time enjoying it before returning to our hotel.
 - **[Me]** I was not satisfied with my big ears. My classmates always looked at me in surprise and laughed at me. I felt ashamed and tried to cover my ears with my hair.
+- **[Me]** In the past, I was really unhappy with my small eyes, and people always laughed at me. I was not confident and afraid to make friends with others.
 - **[Me]** One day, I began to read a novel after dinner. Soon I got lost in the book without noticing the time. I didn't go to bed until midnight. As a result, I couldn't get up on time the next morning. And I was also very sleepy when I was having lessons. What a bad and terrible day!
 - **[Me]** I had a special experience of running. Last year, I took part in an important running race. I felt confident before the race. But I fell down and hurt my legs on my way. I paid no attention to the pain and continued to run. With people cheering, I finally crossed the finishing line. I'm proud of myself. If possible, I will keep running in the future.
 
 ## Description
 - **[Me]** My favorite food is beef and it tastes delicious in different ways. For my eating habits, I have eggs and milk for breakfast. I usually have beef, fish and vegetables for lunch and dinner.
 - **[Now]** But having a pair of big ears is not always bad. I find that my hearing is very good. I am also good at music. All my classmates praise me for my amazing ability. Now I feel confident and powerful.
+- **[Now]** But now, I am satisfied with it, because my English teacher has told me that I look intelligent for my shining eyes and they are a special symbol for me. I have changed the way I think about myself. I am proud of myself and now I actively get along with others.
 - **[Now]** However, the Amazon faces big problems. Due to climate change, it is getting smaller year by year. People are cutting down trees for wood and to make space for farming. Pollution from factories is harmful to the water.
 - **[Now]** Now, I try to keep fit every day. First, I do sports for 30 minutes every day, such as running or playing basketball. Second, I eat more vegetables and fruit instead of hamburgers. These good habits bring me many benefits. First, I'm full of energy and study better. Second, I seldom get sick and feel happy.
 - **[Recommanding]** In Foshan, there are many places of interest, such as Qiandeng Lake and Xiqiao Mountain. Xiqiao Mountain is full of all kinds of flowers and plants. Foshan is also a good place to enjoy the Cantonese culture. When you want to try traditional Cantonese food, you can go to Shunde to taste delicious Cantonese food.
