@@ -3,15 +3,25 @@ const ELEM_LIGHT_BTN = document.getElementById("light-btn") || Object.create(nul
 const show_history = {};
 var is_light_on = true;
 
+function updateTitlesId(){
+    const cnt = Object.create(null);
+    document.querySelectorAll("h1.preview-theme--custom, h2.preview-theme--custom, h3.preview-theme--custom, h4.preview-theme--custom, h5.preview-theme--custom, h6.preview-theme--custom").forEach((v,k) => {
+        const trans1 = encodeURIComponent(v.innerText).replace(/%20/g, "-");
+        const final = cnt[trans1]? (`${trans1}-${cnt[trans1]++}`): (cnt[trans1] = 1, trans1);
+        v.id = final;
+    })
+}
 function markdownShow(fn) {
     const history = show_history[fn];
     if(history){
         ELEM_LOOK_BOX.innerHTML = history;
+        updateTitlesId();
     }
     fetch(fn)
     .then(e=>e.text())
     .then(md=>{
         ELEM_LOOK_BOX.innerHTML = show_history[fn] = compileMdToHtml(md) + '<div class="page-margin"></div>';
+        updateTitlesId();
     })
     .catch(e=>{
         console.error(e);
