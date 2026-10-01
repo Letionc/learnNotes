@@ -50,7 +50,7 @@
 - **[Introduction]** Good morning, everyone. It is important to eat healthily in our daily life. Let me tell you my eating habits and some advice.
 - **[Me]** My favorite food is beef and it tastes delicious in different ways. For my eating habits, I have eggs and milk for breakfast. I usually have beef, fish and vegetables for lunch and dinner.
 - **[Advice]** To be healthy, here is some advice for you. First of all, it's important to have a balanced diet. Second, drinking more water is better than soft drinks. Last but not least, you need to have three meals a day and eats on time.
-- **[Calling]** In a word, a healthy diet leads to a healthy life. Let's keep a healthy diet!
+- **[Summary]** In a word, a healthy diet leads to a healthy life. Let's keep a healthy diet!
 
 ## Balanced Fun - Novel Overdoze
 
@@ -62,7 +62,7 @@
 
 - **[Introduction]** As we all know, doing sports is important for us. Doing sports not only keeps us healthy, but also makes us happy. As for me, my favourite sport is running.
 - **[Me]** I had a special experience of running. Last year, I took part in an important running race. I felt confident before the race. But I fell down and hurt my legs on my way. I paid no attention to the pain and continued to run. With people cheering, I finally crossed the finishing line. I'm proud of myself. If possible, I will keep running in the future.
-- **[Calling]** In a word, sports play an important role in our life. From now on, let's do more exercises together.
+- **[Summary]** In a word, sports play an important role in our life. From now on, let's do more exercises together.
 
 ## Getting Along With Others - Disagreement with Mom
 
@@ -71,12 +71,19 @@
 - **[Action]** The next day, I regretted, but I didn't know how to say sorry. Later that night, my mom came in, sat beside me, and said she only want me to stay healthy. I also explained why I stayed up late. We both calmed down and apologized to each other.
 - **[Summary]** That moment taught me that understanding comes from listening, not just speaking. We should put ourselves in other people's shoes so that love can grow stronger in a family. Thanks for listening.
 
+## How To Be an Inventor - For Junior High Students
+
+- **[Introduction]** It's no secret that great inventions have changed our lives a lot. Among them, my favorite is Doubao, an AI tool. The reason why I like it best is that it is a good helper in my daily life.
+- **[Case]** In my opinion, great inventors are always curious about how things work, What's more, creativity is one of the most important qualities of them. Finally, They need to think widely and never give up.
+- **[Advice]** As students in junior high, I think we should learn our subject knowledge well. Besides, we can start by observing small things around us. Finally, practice is important. Try new things and try to turn them into reality.
+- **[Summary]** In a word, the future belongs to brave people with dreams. Let's have a deep curiosity about small things around us.
+
 ## Environment Protection - The Amazon Rainforest
 
 - **[Introduction]** The Amazon Rainforest is one of the biggest forests in the world. It is home to many animals and plants. People call it the "lungs of the Earth".
 - **[Now]** However, the Amazon faces big problems. Due to climate change, it is getting smaller year by year. People are cutting down trees for wood and to make space for farming. Pollution from factories is harmful to the water.
 - **[Advice]** To protect Amazon Rainforest, we must stop cutting down trees in it. What's more. it's nessesary to plant more trees. Last but not least, we can make laws to protect it.
-- **[Calling]** Let's work together to protect it. By joint efforts, we can protect it and keep it safe for the future.
+- **[Summary]** Let's work together to protect it. By joint efforts, we can protect it and keep it safe for the future.
 
 ## Places of Interest - Recommending Foshan
 
@@ -88,7 +95,7 @@
 
 - **[Introduction]** I'm happy to invite you to the coming school sports meeting. The school sports meeting will begin at 8 AM next Monday. And we will hold it on the playground in our school.
 - **[Recommanding]** You can take part in different kinds of sports in the meeting, such as running, swimming and so on. There are many benefits of sports. They are good for both our body and mind. First, sports give us joy. Second, sports make us healthy and fit. What's more, sports help us make more friends.
-- **[Calling]** The more exercise we do, the healthier we will be. Let's do more sports and have fun together.
+- **[Summary]** The more exercise we do, the healthier we will be. Let's do more sports and have fun together.
 
 # Words 词汇簿
 ## Daily 日常
