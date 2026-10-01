@@ -11,7 +11,13 @@
 }
 strong.preview-theme--custom{
 	font-weight: bolder;
-	color: #ddd; /* Be sure it is still visible while unlighed */
+	color: #ddd; /* Be sure it is still visible while unlighted */
+}
+em.preview-theme--custom{
+	font-style: normal;
+}
+#look-box:not(.unlighted) em.preview-theme--custom{
+	--color: #c88;
 }
 code.preview-theme--custom{
 	font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;
