@@ -74,9 +74,16 @@
 ## How To Be an Inventor - For Junior High Students
 
 - **[Introduction]** It's no secret that great inventions have changed our lives a lot. Among them, my favorite is Doubao, an AI tool. The reason why I like it best is that it is a good helper in my daily life.
-- **[Case]** In my opinion, great inventors are always curious about how things work, What's more, creativity is one of the most important qualities of them. Finally, They need to think widely and never give up.
+- **[Case]** In my opinion, great inventors are always curious about how things work. What's more, creativity is one of the most important qualities of them. Finally, They need to think widely and never give up.
 - **[Advice]** As students in junior high, I think we should learn our subject knowledge well. Besides, we can start by observing small things around us. Finally, practice is important. Try new things and try to turn them into reality.
 - **[Summary]** In a word, the future belongs to brave people with dreams. Let's have a deep curiosity about small things around us.
+
+## How To Be an Inventor - Longer Version
+
+- **[Introduction]** It's no secret that great inventions have changed our lives a lot. Among them, my favorite is the Internet. The reason why I like it best is that it makes working, playing and communicating much faster and better.
+- **[Case]** In my opinion, great inventors have curiosity, creativity and patience. First, they are always curious about how things work. What's more, they love to create something simple or amazing. Finally, they never give up and think in different ways.
+- **[Advice]** As junior high school students, I think we should learn our subject knowledge well. Besides, we can start by observing small things around us. Last but not least, practice matters. Try new things and try to turn our ideas into reality.
+- **[Summary]** All in all, the future belongs to brave people with dreams. Let's keep strong curiosity about small things around us.
 
 ## Environment Protection - The Amazon Rainforest
 
