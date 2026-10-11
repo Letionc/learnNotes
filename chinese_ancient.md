@@ -1,4 +1,11 @@
-# 古词释义
+<!-- TODO: 继续补充注释 (清荣峻茂, end] -->
+
+# 古词释义-pron
+## 然
+现代中文：……的样子。
+
+例子：凄然 --> 凄惨的样子
+
 ## 吾、我、余、予
 现代中文：我。
 
@@ -14,16 +21,115 @@ ENG: my / mine
 
 ENG: myself
 
-## 吾、我、余、予
-现代中文：我。
-
-ENG: I / me
-
 ## 吾之、我之
 现代中文：我的。
 
 ENG: my / mine
 
+# 古词释义-n
+## 阙
+现代中文：同“缺”，空隙、缺口。
+
+ENG: gap
+
+## 岩
+现代中文：山峰，山崖。
+
+ENG: peak / cliff
+
+## 嶂
+现代中文：直立似屏障的山峰。
+
+ENG: peak standing right
+
+## 曦
+现代中文：日光。
+
+《三峡》义：太阳。
+
+ENG: sunlight
+
+## 湍
+现代中文：急流。
+
+ENG: rapid
+
+## 奔-n
+《三峡》义：飞奔的马。
+
+ENG: rushing horse
+
+## 四时
+现代中文：四季。
+
+ENG: four seasons
+
+## 亭午
+现代中文：正午。
+
+ENG: noon
+
+## 夜分
+现代中文：半夜。
+
+ENG: midnight
+
+## 曦月
+拼音：Xi1 Yue4
+
+现代中文：日月。
+
+ENG: sun and moon
+
+## 沉鳞
+《答谢中书书》义：指水中潜游的鱼。
+
+## 回清
+现代中文：回旋的清波。
+
+ENG: spiraling clear waves
+
+## 夏水
+现代中文：夏天的江水
+
+ENG: river water in summer
+
+## 素湍
+现代中文：激起白色浪花的急流。
+
+ENG: rushing current that stirs up white waves
+
+## 绝巘
+拼音：Jue2 Yan3
+
+现代中文：极高的山峰
+
+ENG: too high peak
+
+## 欲界
+现代中文：没有摆脱世俗七情六欲的众生所处的境界。
+
+《答谢中书书》义：人间。
+
+ENG: the human world
+
+## 仙都
+现代中文：神仙居住的美好世界。
+
+ENG: the most beautiful world
+
+## 白帝
+现代中文：古城名，故址在今重庆奉节东瞿(qu2)塘峡口。
+
+## 江陵
+现代中文：古城名，在今湖北荆州。
+
+## 欲界之仙境
+现代中文：人间仙境。
+
+ENG: heaven
+
+# 古词释义-v
 ## 谓
 现代中文：对……说。
 
@@ -39,11 +145,6 @@ ENG: can compare with / like
 
 ENG: work as / should / towards
 
-## 然
-现代中文：……的样子。
-
-例子：凄然 --> 凄惨的样子
-
 ## 欲
 现代中文：想要 / 欲望 / 将要。
 
@@ -55,6 +156,11 @@ ENG: want / desire / will
 《答谢中书书》义：有“欣赏”、“领悟”的意思。
 
 ENG: take part in
+
+## 奔-v
+现代中文：快跑、急驰。
+
+ENG: rush
 
 ## 晖
 现代中文：辉映。
@@ -71,33 +177,89 @@ ENG: disappear and divide
 
 ENG: fall
 
-## 沉鳞
-《答谢中书书》义：指水中潜游的鱼。
+## 襄
+拼音：Xiang1
 
-## 四时
-现代中文：四季。
+现代中文：冲上、漫上。
 
-ENG: four seasons
+ENG: rush up
 
-## 欲界
-现代中文：没有摆脱世俗七情六欲的众生所处的境界。
+## 陵
+现代中文：山陵。
 
-《答谢中书书》义：人间。
+ENG: hill
 
-ENG: the human world
+## 略无
+现代中文：完全没有。
 
-## 仙都
-现代中文：神仙居住的美好世界。
+ENG: have no
 
-ENG: the most beautiful world
+## 襄陵
+拼音：Xiang1 Ling2
+
+现代中文：水漫上山陵。
+
+## 御风
+现代中文：乘风飞行。
+
+ENG: fly with wind
+
+## 飞漱
+拼音：Fei1 Shu4
+
+现代中文：飞速地往下冲荡。
+
+ENG: fall down quickly
+
+## 不以疾
+现代中文：没有这么快。
+
+ENG: be not such fast
 
 ## 五色交晖
 现代中文：色彩斑斓，交相辉映。
 
-## 欲界之仙境
-现代中文：人间仙境
+## 沿溯阻绝
+现代中文：下行和上行的航道都被阻断，不能通航。
 
-ENG: heaven
+# 古词释义-adj
+## 荣
+现代中文：茂盛。
+
+ENG: lush
+
+## 清荣峻茂
+现代中文：水清树茂，山高草盛。
+
+# 古词释义-adv
+## 沿
+现代中文：顺流而下。
+
+ENG: with the flow
+
+## 溯
+现代中文：逆流而上。
+
+ENG: against the current 
+
+# 古词释义-prep
+## 自
+现代中文：从。
+
+《三峡》义：在。
+
+ENG: at / from / since
+
+## 自非
+现代中文：如果不是。
+
+ENG: if it's not
+
+# 古词释义-conj
+## 虽
+现代中文：即使。
+
+ENG: even
 
 # 纯背诵基础·文本
 
